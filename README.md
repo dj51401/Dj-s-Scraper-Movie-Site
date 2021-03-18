@@ -1,4 +1,4 @@
-# Dj-s-Scraper-Movie-Site
+ **DJ's Movie Scraper!**
 An IMDB web scraper I wrote with Python and Beautiful Soup!
 
 Currently Scrapes ≈ 450 movies/ minute from IMDB
