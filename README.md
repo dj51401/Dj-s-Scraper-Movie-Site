@@ -1,10 +1,9 @@
 # Dj-s-Scraper-Movie-Site
 An IMDB web scraper I wrote with Python and Beautiful Soup!
 
-Am going to try to make it scrape more / faster. 
+Currently Scrapes ≈ 450 movies/ minute from IMDB
 
-Going to add a front end to display movies
+Am going to make an API for it.
+Am going to make it scrape more data
 
-Going to add more details to scrape: Actors, Directors, etc...
-
-FOR EDUCATIONAL PURPOSES
+FOR EDUCATION!!!
